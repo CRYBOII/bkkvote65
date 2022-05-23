@@ -1,0 +1,6807 @@
+{
+  "id": 1,
+  "totalVotes": 2673691,
+  "goodVotes": 2561447,
+  "badVotes": 40017,
+  "noVotes": 72227,
+  "eligible": 4402941,
+  "progress": 95,
+  "updatedAt": "2022-05-23T04:59:15.391Z",
+  "candidates": {
+    "1": 253851,
+    "2": 19841,
+    "3": 230455,
+    "4": 254647,
+    "5": 20742,
+    "6": 214692,
+    "7": 78993,
+    "8": 1386215,
+    "9": 8274,
+    "10": 2189,
+    "11": 73720,
+    "12": 2219,
+    "13": 868,
+    "14": 1092,
+    "15": 574,
+    "16": 2129,
+    "17": 756,
+    "18": 908,
+    "19": 636,
+    "20": 558,
+    "21": 342,
+    "22": 1128,
+    "23": 431,
+    "24": 3247,
+    "25": 460,
+    "26": 359,
+    "27": 391,
+    "28": 0,
+    "29": 494,
+    "30": 424,
+    "31": 812
+  },
+  "candidateAreas": {
+    "1": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 34609,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "2": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 63550,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "3": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 136547,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "4": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 30041,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "5": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 152133,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "6": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 115128,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "7": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 30966,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "8": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 32005,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "9": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 71850,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "10": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 109500,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "11": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 138720,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "12": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 60503,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "13": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 17099,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "14": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 51977,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "15": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 83468,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "16": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 52474,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "17": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 67392,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "18": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 53307,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "19": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 84954,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "20": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 83321,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "21": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 143434,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "22": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 100628,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "23": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 123839,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "24": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 62386,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "25": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 74359,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "26": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 93387,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "27": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 113478,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "28": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 59821,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "29": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 100687,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "30": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 127138,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "31": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 64851,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "32": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 140134,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "33": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 73153,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "34": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 97144,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "35": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 117583,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "36": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 132987,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "37": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 48780,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "38": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 94462,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "39": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 55826,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "40": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 157371,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "41": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 82916,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "42": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 163082,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "43": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 70520,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "44": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 76216,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "45": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 85119,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "46": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 160227,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "47": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 70973,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "48": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 64832,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "49": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 98485,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    },
+    "50": {
+      "totalVotes": 0,
+      "badVotes": 0,
+      "noVotes": 0,
+      "goodVotes": 0,
+      "eligible": 79579,
+      "progress": 0,
+      "candidates": {
+        "1": {
+          "partyId": 2,
+          "votes": 0
+        },
+        "2": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "3": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "4": {
+          "partyId": 4,
+          "votes": 0
+        },
+        "5": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "6": {
+          "partyId": 13,
+          "votes": 0
+        },
+        "7": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "8": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "9": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "10": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "11": {
+          "partyId": 11,
+          "votes": 0
+        },
+        "12": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "13": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "14": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "15": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "16": {
+          "partyId": 14,
+          "votes": 0
+        },
+        "17": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "18": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "19": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "20": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "21": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "22": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "23": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "24": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "25": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "26": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "27": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "28": {
+          "partyId": 12,
+          "votes": 0
+        },
+        "29": {
+          "partyId": 3,
+          "votes": 0
+        },
+        "30": {
+          "partyId": 15,
+          "votes": 0
+        },
+        "31": {
+          "partyId": 12,
+          "votes": 0
+        }
+      }
+    }
+  },
+  "parties": {
+    "1": {
+      "votes": 0,
+      "seats": 0
+    },
+    "2": {
+      "votes": 0,
+      "seats": 0
+    },
+    "3": {
+      "votes": 0,
+      "seats": 0
+    },
+    "4": {
+      "votes": 0,
+      "seats": 0
+    },
+    "5": {
+      "votes": 0,
+      "seats": 0
+    },
+    "6": {
+      "votes": 0,
+      "seats": 0
+    },
+    "7": {
+      "votes": 0,
+      "seats": 0
+    },
+    "8": {
+      "votes": 0,
+      "seats": 0
+    },
+    "9": {
+      "votes": 0,
+      "seats": 0
+    },
+    "10": {
+      "votes": 0,
+      "seats": 0
+    },
+    "11": {
+      "votes": 0,
+      "seats": 0
+    },
+    "12": {
+      "votes": 0,
+      "seats": 0
+    },
+    "13": {
+      "votes": 0,
+      "seats": 0
+    },
+    "14": {
+      "votes": 0,
+      "seats": 0
+    },
+    "15": {
+      "votes": 0,
+      "seats": 0
+    }
+  }
+}

@@ -1,3 +1,1064 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .border-candidate-1 {
+    --tw-border-opacity: 1;
+    border-color: rgb(212 87 1 / var(--tw-border-opacity));
+  }
+
+  .border-candidate-2 {
+    --tw-border-opacity: 1;
+    border-color: rgb(66 66 66 / var(--tw-border-opacity));
+  }
+
+  .border-candidate-3 {
+    --tw-border-opacity: 1;
+    border-color: rgb(84 191 188 / var(--tw-border-opacity));
+  }
+
+  .border-candidate-4 {
+    --tw-border-opacity: 1;
+    border-color: rgb(47 138 220 / var(--tw-border-opacity));
+  }
+
+  .border-candidate-5 {
+    --tw-border-opacity: 1;
+    border-color: rgb(66 66 66 / var(--tw-border-opacity));
+  }
+
+  .border-candidate-6 {
+    --tw-border-opacity: 1;
+    border-color: rgb(221 176 63 / var(--tw-border-opacity));
+  }
+
+  .border-candidate-7 {
+    --tw-border-opacity: 1;
+    border-color: rgb(111 74 51 / var(--tw-border-opacity));
+  }
+
+  .border-candidate-8 {
+    --tw-border-opacity: 1;
+    border-color: rgb(92 158 30 / var(--tw-border-opacity));
+  }
+
+  .border-candidate-10,
+  .border-candidate-9 {
+    --tw-border-opacity: 1;
+    border-color: rgb(66 66 66 / var(--tw-border-opacity));
+  }
+
+  .border-candidate-11 {
+    --tw-border-opacity: 1;
+    border-color: rgb(106 71 180 / var(--tw-border-opacity));
+  }
+
+  .border-candidate-12,
+  .border-candidate-13,
+  .border-candidate-14,
+  .border-candidate-15,
+  .border-candidate-16,
+  .border-candidate-17,
+  .border-candidate-18,
+  .border-candidate-19,
+  .border-candidate-20,
+  .border-candidate-21,
+  .border-candidate-22,
+  .border-candidate-23,
+  .border-candidate-24,
+  .border-candidate-25,
+  .border-candidate-26,
+  .border-candidate-27,
+  .border-candidate-28,
+  .border-candidate-29,
+  .border-candidate-30,
+  .border-candidate-31,
+  .border-candidate-9999 {
+    --tw-border-opacity: 1;
+    border-color: rgb(66 66 66 / var(--tw-border-opacity));
+  }
+
+  .border-party-1 {
+    --tw-border-opacity: 1;
+    border-color: rgb(255 197 57 / var(--tw-border-opacity));
+  }
+
+  .border-party-2 {
+    --tw-border-opacity: 1;
+    border-color: rgb(212 87 1 / var(--tw-border-opacity));
+  }
+
+  .border-party-3 {
+    --tw-border-opacity: 1;
+    border-color: rgb(19 72 210 / var(--tw-border-opacity));
+  }
+
+  .border-party-4 {
+    --tw-border-opacity: 1;
+    border-color: rgb(47 138 220 / var(--tw-border-opacity));
+  }
+
+  .border-party-5 {
+    --tw-border-opacity: 1;
+    border-color: rgb(17 156 47 / var(--tw-border-opacity));
+  }
+
+  .border-party-6 {
+    --tw-border-opacity: 1;
+    border-color: rgb(43 51 140 / var(--tw-border-opacity));
+  }
+
+  .border-party-7 {
+    --tw-border-opacity: 1;
+    border-color: rgb(219 163 173 / var(--tw-border-opacity));
+  }
+
+  .border-party-8 {
+    --tw-border-opacity: 1;
+    border-color: rgb(175 107 164 / var(--tw-border-opacity));
+  }
+
+  .border-party-9 {
+    --tw-border-opacity: 1;
+    border-color: rgb(190 26 26 / var(--tw-border-opacity));
+  }
+
+  .border-party-10 {
+    --tw-border-opacity: 1;
+    border-color: rgb(254 232 107 / var(--tw-border-opacity));
+  }
+
+  .border-party-11 {
+    --tw-border-opacity: 1;
+    border-color: rgb(106 71 180 / var(--tw-border-opacity));
+  }
+
+  .border-party-12,
+  .border-party-13,
+  .border-party-14 {
+    --tw-border-opacity: 1;
+    border-color: rgb(66 66 66 / var(--tw-border-opacity));
+  }
+
+  .border-party-15 {
+    --tw-border-opacity: 1;
+    border-color: rgb(31 120 40 / var(--tw-border-opacity));
+  }
+
+  .border-party-100,
+  .border-party-101,
+  .border-party-102,
+  .border-party-103,
+  .border-party-104,
+  .border-party-105,
+  .border-party-106,
+  .border-party-107,
+  .border-party-108,
+  .border-party-109,
+  .border-party-110,
+  .border-party-111,
+  .border-party-112,
+  .border-party-113,
+  .border-party-114,
+  .border-party-115,
+  .border-party-116,
+  .border-party-117,
+  .border-party-118,
+  .border-party-119,
+  .border-party-120,
+  .border-party-121,
+  .border-party-122,
+  .border-party-123,
+  .border-party-124,
+  .border-party-125,
+  .border-party-126,
+  .border-party-127,
+  .border-party-128,
+  .border-party-129,
+  .border-party-130,
+  .border-party-131,
+  .border-party-132,
+  .border-party-133,
+  .border-party-134,
+  .border-party-135,
+  .border-party-136,
+  .border-party-137,
+  .border-party-138,
+  .border-party-139,
+  .border-party-140,
+  .border-party-141,
+  .border-party-142,
+  .border-party-143,
+  .border-party-144,
+  .border-party-145,
+  .border-party-146,
+  .border-party-147,
+  .border-party-148,
+  .border-party-149,
+  .border-party-150,
+  .border-party-151,
+  .border-party-152,
+  .border-party-153,
+  .border-party-154,
+  .border-party-155,
+  .border-party-156,
+  .border-party-157,
+  .border-party-158,
+  .border-party-159,
+  .border-party-16,
+  .border-party-160,
+  .border-party-161,
+  .border-party-162,
+  .border-party-163,
+  .border-party-164,
+  .border-party-165,
+  .border-party-166,
+  .border-party-167,
+  .border-party-168,
+  .border-party-169,
+  .border-party-17,
+  .border-party-170,
+  .border-party-171,
+  .border-party-172,
+  .border-party-173,
+  .border-party-174,
+  .border-party-175,
+  .border-party-176,
+  .border-party-177,
+  .border-party-178,
+  .border-party-179,
+  .border-party-18,
+  .border-party-180,
+  .border-party-181,
+  .border-party-182,
+  .border-party-183,
+  .border-party-184,
+  .border-party-185,
+  .border-party-186,
+  .border-party-187,
+  .border-party-188,
+  .border-party-189,
+  .border-party-19,
+  .border-party-190,
+  .border-party-191,
+  .border-party-192,
+  .border-party-193,
+  .border-party-194,
+  .border-party-195,
+  .border-party-196,
+  .border-party-197,
+  .border-party-198,
+  .border-party-199,
+  .border-party-20,
+  .border-party-200,
+  .border-party-201,
+  .border-party-202,
+  .border-party-203,
+  .border-party-204,
+  .border-party-205,
+  .border-party-206,
+  .border-party-207,
+  .border-party-208,
+  .border-party-209,
+  .border-party-21,
+  .border-party-210,
+  .border-party-211,
+  .border-party-212,
+  .border-party-213,
+  .border-party-214,
+  .border-party-215,
+  .border-party-216,
+  .border-party-217,
+  .border-party-218,
+  .border-party-219,
+  .border-party-22,
+  .border-party-220,
+  .border-party-221,
+  .border-party-222,
+  .border-party-223,
+  .border-party-224,
+  .border-party-225,
+  .border-party-226,
+  .border-party-227,
+  .border-party-228,
+  .border-party-229,
+  .border-party-23,
+  .border-party-230,
+  .border-party-231,
+  .border-party-232,
+  .border-party-233,
+  .border-party-234,
+  .border-party-235,
+  .border-party-236,
+  .border-party-237,
+  .border-party-238,
+  .border-party-239,
+  .border-party-24,
+  .border-party-240,
+  .border-party-241,
+  .border-party-242,
+  .border-party-243,
+  .border-party-244,
+  .border-party-245,
+  .border-party-246,
+  .border-party-247,
+  .border-party-248,
+  .border-party-249,
+  .border-party-25,
+  .border-party-250,
+  .border-party-251,
+  .border-party-252,
+  .border-party-253,
+  .border-party-254,
+  .border-party-255,
+  .border-party-256,
+  .border-party-257,
+  .border-party-258,
+  .border-party-259,
+  .border-party-26,
+  .border-party-260,
+  .border-party-261,
+  .border-party-262,
+  .border-party-263,
+  .border-party-264,
+  .border-party-265,
+  .border-party-266,
+  .border-party-267,
+  .border-party-268,
+  .border-party-269,
+  .border-party-27,
+  .border-party-270,
+  .border-party-271,
+  .border-party-272,
+  .border-party-273,
+  .border-party-274,
+  .border-party-275,
+  .border-party-276,
+  .border-party-277,
+  .border-party-278,
+  .border-party-279,
+  .border-party-28,
+  .border-party-280,
+  .border-party-281,
+  .border-party-282,
+  .border-party-283,
+  .border-party-284,
+  .border-party-285,
+  .border-party-286,
+  .border-party-287,
+  .border-party-288,
+  .border-party-289,
+  .border-party-29,
+  .border-party-290,
+  .border-party-291,
+  .border-party-292,
+  .border-party-293,
+  .border-party-294,
+  .border-party-295,
+  .border-party-296,
+  .border-party-297,
+  .border-party-298,
+  .border-party-299,
+  .border-party-30,
+  .border-party-300,
+  .border-party-301,
+  .border-party-302,
+  .border-party-303,
+  .border-party-304,
+  .border-party-305,
+  .border-party-306,
+  .border-party-307,
+  .border-party-308,
+  .border-party-309,
+  .border-party-31,
+  .border-party-310,
+  .border-party-311,
+  .border-party-312,
+  .border-party-313,
+  .border-party-314,
+  .border-party-315,
+  .border-party-316,
+  .border-party-317,
+  .border-party-318,
+  .border-party-319,
+  .border-party-32,
+  .border-party-320,
+  .border-party-321,
+  .border-party-322,
+  .border-party-323,
+  .border-party-324,
+  .border-party-325,
+  .border-party-326,
+  .border-party-327,
+  .border-party-328,
+  .border-party-329,
+  .border-party-33,
+  .border-party-330,
+  .border-party-331,
+  .border-party-332,
+  .border-party-333,
+  .border-party-334,
+  .border-party-335,
+  .border-party-336,
+  .border-party-337,
+  .border-party-338,
+  .border-party-339,
+  .border-party-34,
+  .border-party-340,
+  .border-party-341,
+  .border-party-342,
+  .border-party-343,
+  .border-party-344,
+  .border-party-345,
+  .border-party-346,
+  .border-party-347,
+  .border-party-348,
+  .border-party-349,
+  .border-party-35,
+  .border-party-350,
+  .border-party-351,
+  .border-party-352,
+  .border-party-353,
+  .border-party-354,
+  .border-party-355,
+  .border-party-356,
+  .border-party-357,
+  .border-party-358,
+  .border-party-359,
+  .border-party-36,
+  .border-party-360,
+  .border-party-361,
+  .border-party-362,
+  .border-party-363,
+  .border-party-364,
+  .border-party-365,
+  .border-party-366,
+  .border-party-367,
+  .border-party-368,
+  .border-party-369,
+  .border-party-37,
+  .border-party-370,
+  .border-party-371,
+  .border-party-372,
+  .border-party-373,
+  .border-party-374,
+  .border-party-375,
+  .border-party-376,
+  .border-party-377,
+  .border-party-378,
+  .border-party-379,
+  .border-party-38,
+  .border-party-380,
+  .border-party-381,
+  .border-party-382,
+  .border-party-39,
+  .border-party-40,
+  .border-party-41,
+  .border-party-42,
+  .border-party-43,
+  .border-party-44,
+  .border-party-45,
+  .border-party-46,
+  .border-party-47,
+  .border-party-48,
+  .border-party-49,
+  .border-party-50,
+  .border-party-51,
+  .border-party-52,
+  .border-party-53,
+  .border-party-54,
+  .border-party-55,
+  .border-party-56,
+  .border-party-57,
+  .border-party-58,
+  .border-party-59,
+  .border-party-60,
+  .border-party-61,
+  .border-party-62,
+  .border-party-63,
+  .border-party-64,
+  .border-party-65,
+  .border-party-66,
+  .border-party-67,
+  .border-party-68,
+  .border-party-69,
+  .border-party-70,
+  .border-party-71,
+  .border-party-72,
+  .border-party-73,
+  .border-party-74,
+  .border-party-75,
+  .border-party-76,
+  .border-party-77,
+  .border-party-78,
+  .border-party-79,
+  .border-party-80,
+  .border-party-81,
+  .border-party-82,
+  .border-party-83,
+  .border-party-84,
+  .border-party-85,
+  .border-party-86,
+  .border-party-87,
+  .border-party-88,
+  .border-party-89,
+  .border-party-90,
+  .border-party-91,
+  .border-party-92,
+  .border-party-93,
+  .border-party-94,
+  .border-party-95,
+  .border-party-96,
+  .border-party-97,
+  .border-party-98,
+  .border-party-99,
+  .border-party-9999 {
+    --tw-border-opacity: 1;
+    border-color: rgb(66 66 66 / var(--tw-border-opacity));
+  }
+
+  .border-gray-300 {
+    --tw-border-opacity: 1;
+    border-color: rgb(209 213 219 / var(--tw-border-opacity));
+  }
+
+  .border-black {
+    --tw-border-opacity: 1;
+    border-color: rgb(0 0 0 / var(--tw-border-opacity));
+  }
+
+  .border-transparent {
+    border-color: transparent;
+  }
+
+  .border-\[\#FA8481\] {
+    --tw-border-opacity: 1;
+    border-color: rgb(250 132 129 / var(--tw-border-opacity));
+  }
+
+  .border-white {
+    --tw-border-opacity: 1;
+    border-color: rgb(255 255 255 / var(--tw-border-opacity));
+  }
+
+  .border-gray-500 {
+    --tw-border-opacity: 1;
+    border-color: rgb(107 114 128 / var(--tw-border-opacity));
+  }
+
+  .bg-candidate-1 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(212 87 1 / var(--tw-bg-opacity));
+  }
+
+  .bg-candidate-2 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(66 66 66 / var(--tw-bg-opacity));
+  }
+
+  .bg-candidate-3 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(84 191 188 / var(--tw-bg-opacity));
+  }
+
+  .bg-candidate-4 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(47 138 220 / var(--tw-bg-opacity));
+  }
+
+  .bg-candidate-5 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(66 66 66 / var(--tw-bg-opacity));
+  }
+
+  .bg-candidate-6 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(221 176 63 / var(--tw-bg-opacity));
+  }
+
+  .bg-candidate-7 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(111 74 51 / var(--tw-bg-opacity));
+  }
+
+  .bg-candidate-8 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(92 158 30 / var(--tw-bg-opacity));
+  }
+
+  .bg-candidate-10,
+  .bg-candidate-9 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(66 66 66 / var(--tw-bg-opacity));
+  }
+
+  .bg-candidate-11 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(106 71 180 / var(--tw-bg-opacity));
+  }
+
+  .bg-candidate-12,
+  .bg-candidate-13,
+  .bg-candidate-14,
+  .bg-candidate-15,
+  .bg-candidate-16,
+  .bg-candidate-17,
+  .bg-candidate-18,
+  .bg-candidate-19,
+  .bg-candidate-20,
+  .bg-candidate-21,
+  .bg-candidate-22,
+  .bg-candidate-23,
+  .bg-candidate-24,
+  .bg-candidate-25,
+  .bg-candidate-26,
+  .bg-candidate-27,
+  .bg-candidate-28,
+  .bg-candidate-29,
+  .bg-candidate-30,
+  .bg-candidate-31,
+  .bg-candidate-9999 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(66 66 66 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-1 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 197 57 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-2 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(212 87 1 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-3 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(19 72 210 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-4 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(47 138 220 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-5 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(17 156 47 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-6 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(43 51 140 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-7 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(219 163 173 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-8 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(175 107 164 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-9 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(190 26 26 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-10 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(254 232 107 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-11 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(106 71 180 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-12,
+  .bg-party-13,
+  .bg-party-14 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(66 66 66 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-15 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(31 120 40 / var(--tw-bg-opacity));
+  }
+
+  .bg-party-100,
+  .bg-party-101,
+  .bg-party-102,
+  .bg-party-103,
+  .bg-party-104,
+  .bg-party-105,
+  .bg-party-106,
+  .bg-party-107,
+  .bg-party-108,
+  .bg-party-109,
+  .bg-party-110,
+  .bg-party-111,
+  .bg-party-112,
+  .bg-party-113,
+  .bg-party-114,
+  .bg-party-115,
+  .bg-party-116,
+  .bg-party-117,
+  .bg-party-118,
+  .bg-party-119,
+  .bg-party-120,
+  .bg-party-121,
+  .bg-party-122,
+  .bg-party-123,
+  .bg-party-124,
+  .bg-party-125,
+  .bg-party-126,
+  .bg-party-127,
+  .bg-party-128,
+  .bg-party-129,
+  .bg-party-130,
+  .bg-party-131,
+  .bg-party-132,
+  .bg-party-133,
+  .bg-party-134,
+  .bg-party-135,
+  .bg-party-136,
+  .bg-party-137,
+  .bg-party-138,
+  .bg-party-139,
+  .bg-party-140,
+  .bg-party-141,
+  .bg-party-142,
+  .bg-party-143,
+  .bg-party-144,
+  .bg-party-145,
+  .bg-party-146,
+  .bg-party-147,
+  .bg-party-148,
+  .bg-party-149,
+  .bg-party-150,
+  .bg-party-151,
+  .bg-party-152,
+  .bg-party-153,
+  .bg-party-154,
+  .bg-party-155,
+  .bg-party-156,
+  .bg-party-157,
+  .bg-party-158,
+  .bg-party-159,
+  .bg-party-16,
+  .bg-party-160,
+  .bg-party-161,
+  .bg-party-162,
+  .bg-party-163,
+  .bg-party-164,
+  .bg-party-165,
+  .bg-party-166,
+  .bg-party-167,
+  .bg-party-168,
+  .bg-party-169,
+  .bg-party-17,
+  .bg-party-170,
+  .bg-party-171,
+  .bg-party-172,
+  .bg-party-173,
+  .bg-party-174,
+  .bg-party-175,
+  .bg-party-176,
+  .bg-party-177,
+  .bg-party-178,
+  .bg-party-179,
+  .bg-party-18,
+  .bg-party-180,
+  .bg-party-181,
+  .bg-party-182,
+  .bg-party-183,
+  .bg-party-184,
+  .bg-party-185,
+  .bg-party-186,
+  .bg-party-187,
+  .bg-party-188,
+  .bg-party-189,
+  .bg-party-19,
+  .bg-party-190,
+  .bg-party-191,
+  .bg-party-192,
+  .bg-party-193,
+  .bg-party-194,
+  .bg-party-195,
+  .bg-party-196,
+  .bg-party-197,
+  .bg-party-198,
+  .bg-party-199,
+  .bg-party-20,
+  .bg-party-200,
+  .bg-party-201,
+  .bg-party-202,
+  .bg-party-203,
+  .bg-party-204,
+  .bg-party-205,
+  .bg-party-206,
+  .bg-party-207,
+  .bg-party-208,
+  .bg-party-209,
+  .bg-party-21,
+  .bg-party-210,
+  .bg-party-211,
+  .bg-party-212,
+  .bg-party-213,
+  .bg-party-214,
+  .bg-party-215,
+  .bg-party-216,
+  .bg-party-217,
+  .bg-party-218,
+  .bg-party-219,
+  .bg-party-22,
+  .bg-party-220,
+  .bg-party-221,
+  .bg-party-222,
+  .bg-party-223,
+  .bg-party-224,
+  .bg-party-225,
+  .bg-party-226,
+  .bg-party-227,
+  .bg-party-228,
+  .bg-party-229,
+  .bg-party-23,
+  .bg-party-230,
+  .bg-party-231,
+  .bg-party-232,
+  .bg-party-233,
+  .bg-party-234,
+  .bg-party-235,
+  .bg-party-236,
+  .bg-party-237,
+  .bg-party-238,
+  .bg-party-239,
+  .bg-party-24,
+  .bg-party-240,
+  .bg-party-241,
+  .bg-party-242,
+  .bg-party-243,
+  .bg-party-244,
+  .bg-party-245,
+  .bg-party-246,
+  .bg-party-247,
+  .bg-party-248,
+  .bg-party-249,
+  .bg-party-25,
+  .bg-party-250,
+  .bg-party-251,
+  .bg-party-252,
+  .bg-party-253,
+  .bg-party-254,
+  .bg-party-255,
+  .bg-party-256,
+  .bg-party-257,
+  .bg-party-258,
+  .bg-party-259,
+  .bg-party-26,
+  .bg-party-260,
+  .bg-party-261,
+  .bg-party-262,
+  .bg-party-263,
+  .bg-party-264,
+  .bg-party-265,
+  .bg-party-266,
+  .bg-party-267,
+  .bg-party-268,
+  .bg-party-269,
+  .bg-party-27,
+  .bg-party-270,
+  .bg-party-271,
+  .bg-party-272,
+  .bg-party-273,
+  .bg-party-274,
+  .bg-party-275,
+  .bg-party-276,
+  .bg-party-277,
+  .bg-party-278,
+  .bg-party-279,
+  .bg-party-28,
+  .bg-party-280,
+  .bg-party-281,
+  .bg-party-282,
+  .bg-party-283,
+  .bg-party-284,
+  .bg-party-285,
+  .bg-party-286,
+  .bg-party-287,
+  .bg-party-288,
+  .bg-party-289,
+  .bg-party-29,
+  .bg-party-290,
+  .bg-party-291,
+  .bg-party-292,
+  .bg-party-293,
+  .bg-party-294,
+  .bg-party-295,
+  .bg-party-296,
+  .bg-party-297,
+  .bg-party-298,
+  .bg-party-299,
+  .bg-party-30,
+  .bg-party-300,
+  .bg-party-301,
+  .bg-party-302,
+  .bg-party-303,
+  .bg-party-304,
+  .bg-party-305,
+  .bg-party-306,
+  .bg-party-307,
+  .bg-party-308,
+  .bg-party-309,
+  .bg-party-31,
+  .bg-party-310,
+  .bg-party-311,
+  .bg-party-312,
+  .bg-party-313,
+  .bg-party-314,
+  .bg-party-315,
+  .bg-party-316,
+  .bg-party-317,
+  .bg-party-318,
+  .bg-party-319,
+  .bg-party-32,
+  .bg-party-320,
+  .bg-party-321,
+  .bg-party-322,
+  .bg-party-323,
+  .bg-party-324,
+  .bg-party-325,
+  .bg-party-326,
+  .bg-party-327,
+  .bg-party-328,
+  .bg-party-329,
+  .bg-party-33,
+  .bg-party-330,
+  .bg-party-331,
+  .bg-party-332,
+  .bg-party-333,
+  .bg-party-334,
+  .bg-party-335,
+  .bg-party-336,
+  .bg-party-337,
+  .bg-party-338,
+  .bg-party-339,
+  .bg-party-34,
+  .bg-party-340,
+  .bg-party-341,
+  .bg-party-342,
+  .bg-party-343,
+  .bg-party-344,
+  .bg-party-345,
+  .bg-party-346,
+  .bg-party-347,
+  .bg-party-348,
+  .bg-party-349,
+  .bg-party-35,
+  .bg-party-350,
+  .bg-party-351,
+  .bg-party-352,
+  .bg-party-353,
+  .bg-party-354,
+  .bg-party-355,
+  .bg-party-356,
+  .bg-party-357,
+  .bg-party-358,
+  .bg-party-359,
+  .bg-party-36,
+  .bg-party-360,
+  .bg-party-361,
+  .bg-party-362,
+  .bg-party-363,
+  .bg-party-364,
+  .bg-party-365,
+  .bg-party-366,
+  .bg-party-367,
+  .bg-party-368,
+  .bg-party-369,
+  .bg-party-37,
+  .bg-party-370,
+  .bg-party-371,
+  .bg-party-372,
+  .bg-party-373,
+  .bg-party-374,
+  .bg-party-375,
+  .bg-party-376,
+  .bg-party-377,
+  .bg-party-378,
+  .bg-party-379,
+  .bg-party-38,
+  .bg-party-380,
+  .bg-party-381,
+  .bg-party-382,
+  .bg-party-39,
+  .bg-party-40,
+  .bg-party-41,
+  .bg-party-42,
+  .bg-party-43,
+  .bg-party-44,
+  .bg-party-45,
+  .bg-party-46,
+  .bg-party-47,
+  .bg-party-48,
+  .bg-party-49,
+  .bg-party-50,
+  .bg-party-51,
+  .bg-party-52,
+  .bg-party-53,
+  .bg-party-54,
+  .bg-party-55,
+  .bg-party-56,
+  .bg-party-57,
+  .bg-party-58,
+  .bg-party-59,
+  .bg-party-60,
+  .bg-party-61,
+  .bg-party-62,
+  .bg-party-63,
+  .bg-party-64,
+  .bg-party-65,
+  .bg-party-66,
+  .bg-party-67,
+  .bg-party-68,
+  .bg-party-69,
+  .bg-party-70,
+  .bg-party-71,
+  .bg-party-72,
+  .bg-party-73,
+  .bg-party-74,
+  .bg-party-75,
+  .bg-party-76,
+  .bg-party-77,
+  .bg-party-78,
+  .bg-party-79,
+  .bg-party-80,
+  .bg-party-81,
+  .bg-party-82,
+  .bg-party-83,
+  .bg-party-84,
+  .bg-party-85,
+  .bg-party-86,
+  .bg-party-87,
+  .bg-party-88,
+  .bg-party-89,
+  .bg-party-90,
+  .bg-party-91,
+  .bg-party-92,
+  .bg-party-93,
+  .bg-party-94,
+  .bg-party-95,
+  .bg-party-96,
+  .bg-party-97,
+  .bg-party-98,
+  .bg-party-99,
+  .bg-party-9999 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(66 66 66 / var(--tw-bg-opacity));
+  }
+}
