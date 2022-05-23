@@ -5,7 +5,7 @@ export function percentageM(partialValue: any, totalValue: any) {
   return (180 * partialValue) / totalValue
 }
 
-export const candis = {
+export const candis: any = {
   '1': 'วิโรจน์ ลักขณาอดิศร',
   '2': 'ฐิฏา รังสิตพล มานิตกุล',
   '3': 'สกลธี ภัททิยกุล',
